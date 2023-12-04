@@ -15,9 +15,6 @@ Uruguayan programmer with a journey from frontend to backend. Passionate about m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aalandev8&icon=8&color=10)](https://visitcount.itsvg.in)
 
