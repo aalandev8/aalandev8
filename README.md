@@ -1,3 +1,5 @@
+# ♈ Hi! Im Facundo Duque.
+
 # 💫 About Me:
 Uruguayan programmer with a journey from frontend to backend. Passionate about merging both for robust development. Committed to daily learning and improvement
 
