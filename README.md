@@ -1,7 +1,10 @@
-# ♈ Hi! Im Facundo Duque.
+# 👨‍💻 Hi! I'm Facundo Duque.
+Uruguayan programmer with a journey from frontend to backend. Passionate about merging both for robust development. Committed to daily learning and improvement
 
 # 💫 About Me:
-Uruguayan programmer with a journey from frontend to backend. Passionate about merging both for robust development. Committed to daily learning and improvement
+My passion for technology ignited at a young age, sparking a journey into the world of programming. From those initial steps, I've evolved into a versatile developer, seamlessly blending frontend and backend skills for comprehensive solutions.
+
+Beyond coding, my affection for technology is rivaled only by my love for cats. In the realm of programming and feline companionship, I find endless inspiration. Each line of code is a step in my ongoing adventure of learning and improvement. Join me on this tech-savvy and cat-loving journey!
 
 
 ## 🌐 Socials:
@@ -21,3 +24,4 @@ Uruguayan programmer with a journey from frontend to backend. Passionate about m
 [![](https://visitcount.itsvg.in/api?id=aalandev8&icon=8&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
