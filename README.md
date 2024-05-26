@@ -2,9 +2,11 @@
 Uruguayan programmer with a journey from frontend to backend. Passionate about merging both for robust development. Committed to daily learning and improvement
 
 # 💫 About Me:
-My passion for technology ignited at a young age, sparking a journey into the world of programming. From those initial steps, I've evolved into a versatile developer, seamlessly blending frontend and backend skills for comprehensive solutions.
+Since I was young, I've always been passionate about technology. At the age of 8, I received my first PC, and that sparked my interest in exploring the fascinating world of technology.
 
-Beyond coding, my affection for technology is rivaled only by my love for cats. In the realm of programming and feline companionship, I find endless inspiration. Each line of code is a step in my ongoing adventure of learning and improvement. Join me on this tech-savvy and cat-loving journey!
+During my adolescence, I pursued a computer science program in high school, immersing myself in everything related to programming. I vividly recall my first programming language being Java.
+
+After completing high school, I delved into various personal projects until I stumbled upon the world of Blockchain. This discovery further fueled my passion for programming, prompting me to delve into solidity development and enhance my web development skills, both front-end and back-end. I learned Javascript, Typescript, and Nextjs, among other essential tools that remain integral to my daily routine as a developer.
 
 
 ## 🌐 Socials:
