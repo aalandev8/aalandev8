@@ -1,2 +1,2 @@
 Facundo Duque
-Software Engineer | Full-Stack Developer
+Software Engineer | WEB3 DEVELOPER
